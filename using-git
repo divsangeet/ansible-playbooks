@@ -1,7 +1,25 @@
-to clone a repository
+=> To clone a repository
+
+
 # git clone repository-url
 # git clone https://github.com/divsangeet/ansible-playbooks.git
 
+=> To set email id and user name before commiting 
+
+# git config --global user.email "you@example.com"
+#  git config --global user.name "Your Name"
+
+=> 
+
+=> To add a file
+
+# git add .
+
+=> To commit
+
+# git commit -m "version 1"
 
 
+=> To push 
 
+# git push https://github.com/divsangeet/ansible-playbooks.git
